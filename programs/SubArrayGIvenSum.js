@@ -11,8 +11,6 @@ const subArrayGivenSum = (arr, len, gSum) => {
     if (maxSum === gSum) {
       return maxSum
     }
-    if (maxSum > gSum) {
-    }
     if (maxSum < sum) {
       maxSum = sum
     }

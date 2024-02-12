@@ -10,5 +10,5 @@ const EvenNumber = (arr, len) => {
   }
   return even
 }
-
 console.log(EvenNumber(arr, len))
+
