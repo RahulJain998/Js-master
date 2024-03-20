@@ -1,4 +1,4 @@
-const data = 8612455638334947271564617487839781
+const data = 8612455638336
 
 const nearsetTen = (Num) => {
   let floorValue = Num - (Num % 10)

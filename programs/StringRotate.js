@@ -1,7 +1,3 @@
-// const a = "amazon"
-// const b = "azonam"
-
-
 
 const a = "daxjheq"
 const b = "eqdaxjh"

@@ -1,4 +1,5 @@
 const a = [2, 3, 1, 2, 3]
+// const a = [4,6,1,2,3,2,1,3,6] 
 const n = a.length
 
 const getCount = (a, n) => {
